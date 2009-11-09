@@ -1,2 +1,6 @@
 # Ignore temporary Gedit files
 *~
+
+# Ignore output files and graphics (also output)
+*.out
+*.ps
